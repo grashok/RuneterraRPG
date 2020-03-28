@@ -1,0 +1,55 @@
+Name of Region
+
+Generic Information
+Capital (Name of capital city)
+Recognized/Official Languages
+Demography & Population
+Territory (How is the territory defined and interacted with?)
+Assets (Available wealth of the organization)
+
+History
+History (Outline of the countries history. Details in “History” section)
+Founding Date (The date of foundation)
+Important wars and alliances
+Important characters
+Important events
+
+Governmental Situation
+Head of State (The person with the most governmental power in the region)
+Government System
+Power Structure System
+Relation to magic (locative, affinity, acceptance, …)
+Economic System
+Official/Accepted Currencies
+Legislative Body (Who writes the laws and rules?)
+Juridical Body (Who interprets the laws and rules?)
+Executive Body (Who enforces the laws and rules?)
+Agriculture or Industry (Focus, Buildings/Facilities: Think Steel Production, Oil Refineries, Great grain plains, extensive husbandry, honey production, whaling, stellar mining, or pedigree breeding of horses or dogs)
+Education (How?, Average level?, Disparities between educational levels?)
+Infrastructure (What are the physical assets of your organization which assure its health and well being? Aqueducts, Sewage, Road networks, airports, castles, border towers, bridges, locks, walls, …)
+Technological and Scientific levels (Common techs for citizens? Unique techs?)
+
+Political Situation:
+Flag/Crest
+Motto/Slogan/Acronym (Two words to a sentence which define this region)
+Public Agenda (Describes the public goals and motivation behind their actions)
+Private Agenda (Describes the real goals and motivation)
+Neighboring Regions (Plain list of all the neighbors)
+Foreign Relations (Alliances, Truths, Rivals and Wars with other regions including reasoning)
+Trade and Transport (Partners/Rivals, Networks and Street-types)
+Imports (Products)
+Exports (Products)
+
+Religious Situation
+State Religion
+Views on state religion
+Views on other religions
+Religious history (important characters and events)
+
+Military
+Size and divisions (manpower and divisions)
+Hierarchy of titles
+Quality of units
+Prestige and status (Is the region proud of their military? Do the people like it? What about the allies and rivals perception of it?)
+Technology (Unique weapons? Technological advantages? …)
+Strategies (Front-fight? Smartness? position toward War Crimes and Covert Actions?)
